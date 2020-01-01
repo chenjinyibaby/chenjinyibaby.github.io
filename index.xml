@@ -21,5 +21,16 @@
 我的个人介绍 陈瑾仪 学习的知识 </description>
     </item>
     
+    <item>
+      <title>第二篇</title>
+      <link>http://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Wed, 01 Jan 2020 10:36:08 +0800</pubDate>
+      
+      <guid>http://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>我用hugo写的第2篇博客 希望能给大家带来更好的内容
+我的个人介绍 陈瑾仪
+学习的知识  js html css  </description>
+    </item>
+    
   </channel>
 </rss>
